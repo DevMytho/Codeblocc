@@ -1,6 +1,6 @@
 # Discord Bot Written In Python 
 
-> Features :-
+> ***Features*** :-
 > 1) It is easy to use
 > 2) Uses slash commands hence up-to-date
 > 3) Basic Features + Basic Moderation and Welcomer Set
