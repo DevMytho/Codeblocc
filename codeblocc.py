@@ -109,4 +109,4 @@ async def on_member_join(member):
     await channel.send(f"{member.mention}! **Welcome To {member.guild.name} Please Read Rules**")
     await channel.send(file=file)
 
-bot.run("MTE1OTUxODEyNjc4NzAyMjk2MA.GvIyOR.FEMKwmm-IEKPlDX56_HgJ0RqEaXOCfGOGYyBfE")
+bot.run("YOUR_TOKEN")
